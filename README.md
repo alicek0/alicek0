@@ -1,4 +1,6 @@
 ### Hi there 👋
+CS undergraduate student studying at Hanyang University Erica Campus.
+My name is Alice and I'm currently learning to collaborate with other people in software development.
 
 <!--
 **alicek0/alicek0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
