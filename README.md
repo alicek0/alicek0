@@ -1,5 +1,6 @@
 ### Hi there 👋
 CS undergraduate student studying at Hanyang University Erica Campus.
+
 My name is Alice and I'm currently training as a backend developer, working with Java, Spring Boot, and building projects through team collaboration.
 
 <!--
